@@ -1,4 +1,5 @@
 # TodoApp
+
 A simple, clean and functional JS Todo App
 
 This JavaScript app uses Local Storage in order to keep track of previously stored todo items, so that you can add and remove
